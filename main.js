@@ -3,7 +3,7 @@
  * WICHTIG: Trage hier deinen eigenen TMDB-API-Key ein.
  * Kostenlos erhältlich unter: https://www.themoviedb.org/settings/api
  */
-const TMDB_API_KEY = "DEIN_TMDB_API_KEY_HIER";
+
 const TMDB_BASE = "https://api.themoviedb.org/3";
 const IMG_BASE = "https://image.tmdb.org/t/p/w500";
 const FAVORITES_KEY = "filmtagebuch_favorites";
